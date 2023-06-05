@@ -5,4 +5,4 @@
 
 
 ## 동작과정
-<img src = "https://github.com/Princess-s-recipe/Wikipedia_sm/assets/57484815/a382ca72-e916-4383-bb39-e549a5f3604a">
+<img src ="https://github.com/Princess-s-recipe/Wikipedia_sm/assets/57484815/a382ca72-e916-4383-bb39-e549a5f3604a">
